@@ -1,0 +1,624 @@
+conda list -n base
+conda list -n cdat_plus
+In only base
+blosc                    1.15.0    hd9629dc_0          defaults            
+pywavelets               1.0.2     py37h1d22016_0      defaults            
+networkx                 2.2       py37_1              defaults            
+numexpr                  2.6.9     py37h7413580_0      defaults            
+navigator-updater        0.2.1     py37_0              defaults            
+cython                   0.29.6    py37h0a44026_0      defaults            
+flask                    1.0.2     py37_1              defaults            
+mkl_fft                  1.0.10    py37h5e564d8_0      defaults            
+snappy                   1.1.7     he62c110_3          defaults            
+sympy                    1.3       py37_0              defaults            
+itsdangerous             1.1.0     py37_0              defaults            
+xlwt                     1.3.0     py37_0              defaults            
+pathlib2                 2.3.3     py37_0              defaults            
+mpc                      1.1.0     h6ef4df4_1          defaults            
+lzo                      2.10      h362108e_2          defaults            
+bottleneck               1.2.1     py37h1d22016_1      defaults            
+pluggy                   0.9.0     py37_0              defaults            
+atomicwrites             1.3.0     py37_1              defaults            
+contextlib2              0.5.5     py37_0              defaults            
+dbus                     1.13.6    h90a0687_0          defaults            
+scikit-learn             0.20.3    py37h27c97d8_0      defaults            
+intel-openmp             2019.3    199                 defaults            
+pytest-astropy           0.5.0     py37_0              defaults            
+mpmath                   1.1.0     py37_0              defaults            
+greenlet                 0.4.15    py37h1de35cc_0      defaults            
+nose                     1.3.7     py37_2              defaults            
+h5py                     2.9.0     py37h3134771_0      defaults            
+gmpy2                    2.0.8     py37h6ef4df4_2      defaults            
+anaconda-client          1.7.2     py37_0              defaults            
+get_terminal_size        1.0.0     h7520d66_0          defaults            
+gevent                   1.4.0     py37h1de35cc_0      defaults            
+anaconda                 2019.03   py37_0              defaults            
+bitarray                 0.8.3     py37h1de35cc_0      defaults            
+libxslt                  1.1.33    h33a18ac_0          defaults            
+xlrd                     1.2.0     py37_0              defaults            
+pyodbc                   4.0.26    py37h0a44026_0      defaults            
+sphinxcontrib            1.0       py37_1              defaults            
+html5lib                 1.0.1     py37_0              defaults            
+pytest-remotedata        0.3.1     py37_0              defaults            
+boto                     2.49.0    py37_0              defaults            
+multipledispatch         0.6.0     py37_0              defaults            
+seaborn                  0.9.0     py37_0              defaults            
+pkginfo                  1.5.0.1   py37_0              defaults            
+appscript                1.1.0     py37h1de35cc_0      defaults            
+backports                1.0       py37_1              defaults            
+werkzeug                 0.14.1    py37_0              defaults            
+xlwings                  0.15.4    py37_0              defaults            
+ply                      3.11      py37_0              defaults            
+conda                    4.6.14    py37_0              defaults            
+zipp                     0.3.3     py37_1              defaults            
+soupsieve                1.8       py37_0              defaults            
+glob2                    0.6       py37_1              defaults            
+_ipyw_jlab_nb_ext_conf   0.1.0     py37_0              defaults            
+imageio                  2.5.0     py37_0              defaults            
+pytables                 3.5.1     py37h5bccee9_0      defaults            
+backports.shutil_get_terminal_size1.0.0     py37_2              defaults            
+liblief                  0.9.0     h2a1bed3_2          defaults            
+libarchive               3.3.3     h786848e_5          defaults            
+llvmlite                 0.28.0    py37h8c7ce04_0      defaults            
+simplegeneric            0.8.1     py37_2              defaults            
+ruamel_yaml              0.15.46   py37h1de35cc_0      defaults            
+mkl                      2019.3    199                 defaults            
+backports.os             0.1.1     py37_0              defaults            
+libcxxabi                4.0.1     hcfea43d_1          defaults            
+et_xmlfile               1.0.1     py37_0              defaults            
+conda-verify             3.1.1     py37_0              defaults            
+pcre                     8.43      h0a44026_0          defaults            
+py                       1.8.0     py37_0              defaults            
+lz4-c                    1.8.1.2   h1de35cc_0          defaults            
+mkl-service              1.1.2     py37hfbe908c_5      defaults            
+glib                     2.56.2    hd9629dc_0          defaults            
+sqlalchemy               1.3.1     py37h1de35cc_0      defaults            
+xlsxwriter               1.1.5     py37_0              defaults            
+python-libarchive-c      2.8       py37_6              defaults            
+jbig                     2.1       h4d881f8_0          defaults            
+jupyterlab_server        0.2.0     py37_0              defaults            
+jdcal                    1.4       py37_0              defaults            
+jupyterlab               0.35.4    py37hf63ae98_0      defaults            
+pycurl                   7.43.0.2  py37ha12b0ac_0      defaults            
+conda-build              3.17.8    py37_0              defaults            
+statsmodels              0.9.0     py37h1d22016_0      defaults            
+more-itertools           6.0.0     py37_0              defaults            
+conda-env                2.6.0     1                   defaults            
+libxml2                  2.9.9     hab757c2_0          defaults            
+mkl_random               1.0.2     py37h27c97d8_0      defaults            
+numba                    0.43.1    py37h6440ff4_0      defaults            
+singledispatch           3.4.0.3   py37_0              defaults            
+bkcharts                 0.2       py37_0              defaults            
+sortedcollections        1.1.2     py37_0              defaults            
+openpyxl                 2.6.1     py37_1              defaults            
+lxml                     4.3.2     py37hef8c89e_0      defaults            
+fastcache                1.0.2     py37h1de35cc_2      defaults            
+patsy                    0.5.1     py37_0              defaults            
+path.py                  11.5.0    py37_0              defaults            
+pytest                   4.3.1     py37_0              defaults            
+tqdm                     4.31.1    py37_1              defaults            
+clyent                   1.2.2     py37_1              defaults            
+py-lief                  0.9.0     py37h1413db1_2      defaults            
+unixodbc                 2.3.7     h1de35cc_0          defaults            
+scikit-image             0.14.2    py37h0a44026_0      defaults            
+numpy-base               1.16.2    py37h6575580_0      defaults            
+anaconda-navigator       1.9.7     py37_0              defaults            
+astropy                  3.1.2     py37h1de35cc_0      defaults            
+colorama                 0.4.1     py37_0              defaults            
+pytest-doctestplus       0.3.0     py37_0              defaults            
+beautifulsoup4           4.7.1     py37_1              defaults            
+filelock                 3.0.10    py37_0              defaults            
+pycrypto                 2.6.1     py37h1de35cc_9      defaults            
+pycosat                  0.6.3     py37h1de35cc_0      defaults            
+pep8                     1.7.1     py37_0              defaults            
+pytest-openfiles         0.3.2     py37_0              defaults            
+unicodecsv               0.14.1    py37_0              defaults            
+anaconda-project         0.8.2     py37_0              defaults            
+pytest-arraydiff         0.3       py37h39e3cac_0      defaults            
+nltk                     3.4       py37_1              defaults            
+importlib_metadata       0.8       py37_0              defaults            
+mpfr                     4.0.1     h3018a27_3          defaults            
+
+In only cdat_plus
+autopep8                 1.4.3     py_0                conda-forge         
+vcsaddons                8.1       py36h1de35cc_0      cdat/label/v81      
+libcf                    1.0.2     py36h12cacad_1006   cdat-forge          
+esmf                     7.1.0     h5f93626_1004       conda-forge         
+libnetcdf                4.6.2     h6b88ef6_1001       cdat-forge          
+nb_conda_kernels         2.2.1     py36_0              cdat-forge          
+libdrs_f                 3.1.2     h9e3e636_1          cdat-forge          
+libgcc                   4.8.5     hdbeacc1_10         cdat-forge          
+jasper                   1.900.1   hff1ad4c_5          cdat-forge          
+distarray                2.12.2    py36_0              cdat-forge          
+dv3d                     8.1       py_0                cdat/label/v81      
+x264                     1!152.20180717h1de35cc_1001       cdat-forge          
+thermo                   8.1       py_0                cdat/label/v81      
+ossuuid                  1.6.2     hfc679d8_0          cdat-forge          
+vtk-cdat                 8.2.0rc2.8.1py36h258435d_0      cdat/label/v81      
+cdutil                   8.1       py_1                cdat/label/v81      
+geos                     3.7.1     h0a44026_1000       cdat-forge          
+genutil                  8.1.1     py36h917ab60_0      cdat-forge          
+cdms2                    3.0.0     pypi_0              pypi                
+vcs                      8.1       py_0                cdat/label/v81      
+cdtime                   3.1.2     py36hcfef303_1      cdat-forge          
+netcdf-fortran           4.4.5     h5ce9b53_1000       cdat-forge          
+llvm-meta                7.0.0     0                   cdat-forge          
+output_viewer            1.2.5     py36_0              cdat/label/v81      
+mpich                    3.2.1     h26a2512_4          cdat-forge          
+openblas                 0.3.3     hdc02c5d_1001       conda-forge         
+flake8                   3.7.7     py36_0              cdat-forge          
+eofs                     1.3.1     py_0                cdat-forge          
+wk                       8.1       py_0                cdat/label/v81      
+libdrs                   3.1.2     h12cacad_1          cdat-forge          
+cdat                     8.1       0                   cdat/label/v81      
+mpi                      1.0       mpich               cdat-forge          
+regrid2                  3.0.0     pypi_0              pypi                
+cdat_info                8.1.1     py_0                cdat/label/v81      
+udunits2                 2.2.27.6  h776b7f1_1001       cdat-forge          
+windspharm               1.7.0     py36_1000           cdat-forge          
+gnutls                   3.6.5     h53004b3_1001       cdat-forge          
+ffmpeg                   4.1       heb45b42_1002       cdat-forge          
+proj4                    5.2.0     h1de35cc_1001       cdat-forge          
+ghostscript              9.22      h0a44026_1001       cdat-forge          
+pyshp                    2.1.0     py_0                cdat-forge          
+hdf4                     4.2.13    h951d187_2          cdat-forge          
+openh264                 1.8.0     hd9629dc_1000       cdat-forge          
+typed-ast                1.3.1     py36h1de35cc_0      cdat-forge          
+lame                     3.100     h1de35cc_1001       cdat-forge          
+esmpy                    7.1.0     py36h24bf2e0_3      cdat-forge          
+g2clib                   1.6.0     3                   cdat-forge          
+pyproj                   1.9.6     py36h9c430a6_1000   cdat-forge          
+nettle                   3.4.1     h3efe00b_1002       cdat-forge          
+libcdms                  3.1.2     hba43199_1000       cdat/label/v81      
+nb_conda                 2.2.1     py36_2              cdat-forge          
+pyspharm                 1.0.9     py36hfa2f21f_1003   cdat-forge          
+cibots                   0.2       py_0                cdat/label/v81      
+cdp                      1.4.2     py_1                cdat/label/v81      
+basemap                  1.2.0     py36h3f464f3_1001   cdat-forge          
+matplotlib-base          3.0.3     py36hf043ca5_0      cdat-forge          
+
+In both, same version:
+ca-certificates          2019.1.23 0                   defaults            
+
+Packages in both, with differnt versions:
+pandocfilters :
+    base           1.4.2     py37_1              defaults            
+    cdat_plus      1.4.2     py_1                cdat-forge          
+cloudpickle :
+    base           0.8.0     py37_0              defaults            
+    cdat_plus      0.8.0     py_0                cdat-forge          
+cffi :
+    base           1.12.2    py37hb5b8e2f_1      defaults            
+    cdat_plus      1.12.2    py36h342bebf_0      cdat-forge          
+jpeg :
+    base           9b        he5867d9_2          defaults            
+    cdat_plus      9c        h470a237_1          cdat-forge          
+attrs :
+    base           19.1.0    py37_1              defaults            
+    cdat_plus      19.1.0    py_0                cdat-forge          
+pyparsing :
+    base           2.3.1     py37_0              defaults            
+    cdat_plus      2.3.1     py_0                cdat-forge          
+python.app :
+    base           2         py37_9              defaults            
+    cdat_plus      1.2       py36h1de35cc_1200   cdat-forge          
+wrapt :
+    base           1.11.1    py37h1de35cc_0      defaults            
+    cdat_plus      1.11.1    py36h1de35cc_0      cdat-forge          
+distributed :
+    base           1.26.0    py37_1              defaults            
+    cdat_plus      1.26.0    py36_0              cdat-forge          
+qtpy :
+    base           1.7.0     py37_1              defaults            
+    cdat_plus      1.6.0     pyh8a2030e_0        cdat-forge          
+send2trash :
+    base           1.5.0     py37_0              defaults            
+    cdat_plus      1.5.0     py_0                cdat-forge          
+yaml :
+    base           0.1.7     hc338f04_2          defaults            
+    cdat_plus      0.1.7     h1de35cc_1001       cdat-forge          
+isort :
+    base           4.3.16    py37_0              defaults            
+    cdat_plus      4.3.10    py36_0              cdat-forge          
+tk :
+    base           8.6.8     ha441bb4_0          defaults            
+    cdat_plus      8.6.9     ha92aebf_0          cdat-forge          
+gmp :
+    base           6.1.2     hb37e062_1          defaults            
+    cdat_plus      6.1.2     h0a44026_1000       cdat-forge          
+freetype :
+    base           2.9.1     hb4e5f40_0          defaults            
+    cdat_plus      2.9.1     h597ad8a_1005       cdat-forge          
+heapdict :
+    base           1.0.0     py37_2              defaults            
+    cdat_plus      1.0.0     py36_1000           cdat-forge          
+python :
+    base           3.7.3     h359304d_0          defaults            
+    cdat_plus      3.6.7     h8dc6b48_1004       cdat-forge          
+alabaster :
+    base           0.7.12    py37_0              defaults            
+    cdat_plus      0.7.12    py_0                cdat-forge          
+wcwidth :
+    base           0.1.7     py37_0              defaults            
+    cdat_plus      0.1.7     py_1                cdat-forge          
+markupsafe :
+    base           1.1.1     py37h1de35cc_0      defaults            
+    cdat_plus      1.1.1     py36h1de35cc_0      cdat-forge          
+scipy :
+    base           1.2.1     py37h1410ff5_0      defaults            
+    cdat_plus      1.2.1     py36_blas_openblash486cb9f_0[blas_openblas]     
+jinja2 :
+    base           2.10      py37_0              defaults            
+    cdat_plus      2.10      py_1                cdat-forge          
+bleach :
+    base           3.1.0     py37_0              defaults            
+    cdat_plus      3.1.0     py_0                cdat-forge          
+decorator :
+    base           4.4.0     py37_1              defaults            
+    cdat_plus      4.3.2     py_0                conda-forge         
+packaging :
+    base           19.0      py37_0              defaults            
+    cdat_plus      19.0      py_0                cdat-forge          
+ipython_genutils :
+    base           0.2.0     py37_0              defaults            
+    cdat_plus      0.2.0     py_1                conda-forge         
+qt :
+    base           5.9.7     h468cd18_1          defaults            
+    cdat_plus      5.6.2     h822fa55_1013       cdat-forge          
+psutil :
+    base           5.6.1     py37h1de35cc_0      defaults            
+    cdat_plus      5.5.1     py36h1de35cc_0      cdat-forge          
+cycler :
+    base           0.10.0    py37_0              defaults            
+    cdat_plus      0.10.0    py_1                cdat-forge          
+zstd :
+    base           1.3.7     h5bba6e5_0          defaults            
+    cdat_plus      1.3.3     1                   cdat-forge          
+jsonschema :
+    base           3.0.1     py37_0              defaults            
+    cdat_plus      3.0.1     py36_0              cdat-forge          
+click :
+    base           7.0       py37_0              defaults            
+    cdat_plus      7.0       py_0                cdat-forge          
+kiwisolver :
+    base           1.0.1     py37h0a44026_0      defaults            
+    cdat_plus      1.0.1     py36h04f5b5a_1002   cdat-forge          
+pyopenssl :
+    base           19.0.0    py37_0              defaults            
+    cdat_plus      19.0.0    py36_0              cdat-forge          
+ptyprocess :
+    base           0.6.0     py37_0              defaults            
+    cdat_plus      0.6.0     py36_1000           cdat-forge          
+docutils :
+    base           0.14      py37_0              defaults            
+    cdat_plus      0.14      py36_1001           cdat-forge          
+jedi :
+    base           0.13.3    py37_0              defaults            
+    cdat_plus      0.13.3    py36_0              cdat-forge          
+qtconsole :
+    base           4.4.3     py37_0              defaults            
+    cdat_plus      4.4.3     py_0                cdat-forge          
+libpng :
+    base           1.6.36    ha441bb4_0          defaults            
+    cdat_plus      1.6.36    ha441bb4_1000       conda-forge         
+chardet :
+    base           3.0.4     py37_1              defaults            
+    cdat_plus      3.0.4     py36_1003           cdat-forge          
+olefile :
+    base           0.46      py37_0              defaults            
+    cdat_plus      0.46      py_0                cdat-forge          
+qtawesome :
+    base           0.5.7     py37_1              defaults            
+    cdat_plus      0.5.6     pyh8a2030e_0        cdat-forge          
+icu :
+    base           58.2      h4b95b61_1          defaults            
+    cdat_plus      58.2      h0a44026_1000       cdat-forge          
+libsodium :
+    base           1.0.16    h3efe00b_0          defaults            
+    cdat_plus      1.0.16    h1de35cc_1001       cdat-forge          
+entrypoints :
+    base           0.3       py37_0              defaults            
+    cdat_plus      0.3       py36_1000           cdat-forge          
+cytoolz :
+    base           0.9.0.1   py37h1de35cc_1      defaults            
+    cdat_plus      0.9.0.1   py36h1de35cc_1001   cdat-forge          
+matplotlib :
+    base           3.0.3     py37h54f8f79_0      defaults            
+    cdat_plus      3.0.3     py36_0              cdat-forge          
+ipython :
+    base           7.4.0     py37h39e3cac_0      defaults            
+    cdat_plus      7.3.0     py36h24bf2e0_0      cdat-forge          
+msgpack-python :
+    base           0.6.1     py37h04f5b5a_1      defaults            
+    cdat_plus      0.6.1     py36h04f5b5a_0      cdat-forge          
+pickleshare :
+    base           0.7.5     py37_0              defaults            
+    cdat_plus      0.7.5     py36_1000           cdat-forge          
+mistune :
+    base           0.8.4     py37h1de35cc_0      defaults            
+    cdat_plus      0.8.4     py36h1de35cc_1000   cdat-forge          
+nbformat :
+    base           4.4.0     py37_0              defaults            
+    cdat_plus      4.4.0     py_1                conda-forge         
+pyyaml :
+    base           5.1       py37h1de35cc_0      defaults            
+    cdat_plus      3.13      py36h1de35cc_1001   cdat-forge          
+libedit :
+    base           3.1.20181209hb402a30_0          defaults            
+    cdat_plus      3.1.20170329hcfe32e1_1001       conda-forge         
+hdf5 :
+    base           1.10.4    hfa1e0ec_0          defaults            
+    cdat_plus      1.10.4    nompi_h0cbb7df_1106 conda-forge         
+prometheus_client :
+    base           0.6.0     py37_0              defaults            
+    cdat_plus      0.6.0     py_0                cdat-forge          
+numpydoc :
+    base           0.8.0     py37_0              defaults            
+    cdat_plus      0.8.0     py_1                cdat-forge          
+libiconv :
+    base           1.15      hdd342a3_7          defaults            
+    cdat_plus      1.15      h1de35cc_1004       cdat-forge          
+traitlets :
+    base           4.3.2     py37_0              defaults            
+    cdat_plus      4.3.2     py36_1000           cdat-forge          
+pycodestyle :
+    base           2.5.0     py37_0              defaults            
+    cdat_plus      2.5.0     py_0                cdat-forge          
+requests :
+    base           2.21.0    py37_0              defaults            
+    cdat_plus      2.21.0    py36_1000           cdat-forge          
+defusedxml :
+    base           0.5.0     py37_1              defaults            
+    cdat_plus      0.6.0     py_0                defaults            
+sortedcontainers :
+    base           2.1.0     py37_0              defaults            
+    cdat_plus      2.1.0     py_0                cdat-forge          
+pillow :
+    base           5.4.1     py37hb68e598_0      defaults            
+    cdat_plus      5.4.1     py36hbddbef0_1000   cdat-forge          
+asn1crypto :
+    base           0.24.0    py37_0              defaults            
+    cdat_plus      0.24.0    py36_1003           cdat-forge          
+lazy-object-proxy :
+    base           1.3.1     py37h1de35cc_2      defaults            
+    cdat_plus      1.3.1     py36h1de35cc_1000   cdat-forge          
+snowballstemmer :
+    base           1.2.1     py37_0              defaults            
+    cdat_plus      1.2.1     py_1                cdat-forge          
+gettext :
+    base           0.19.8.1  h15daf44_3          defaults            
+    cdat_plus      0.19.8.1  hcca000d_1001       cdat-forge          
+libtiff :
+    base           4.0.10    hcb84e12_2          defaults            
+    cdat_plus      4.0.10    h344961e_1002       cdat-forge          
+pycparser :
+    base           2.19      py37_0              defaults            
+    cdat_plus      2.19      py36_1              conda-forge         
+xz :
+    base           5.2.4     h1de35cc_4          defaults            
+    cdat_plus      5.2.4     h470a237_1          cdat-forge          
+pygments :
+    base           2.3.1     py37_0              defaults            
+    cdat_plus      2.3.1     py_0                cdat-forge          
+toolz :
+    base           0.9.0     py37_0              defaults            
+    cdat_plus      0.9.0     py_1                cdat-forge          
+libssh2 :
+    base           1.8.0     ha12b0ac_4          defaults            
+    cdat_plus      1.8.0     hb1dc21d_1004       conda-forge         
+pexpect :
+    base           4.6.0     py37_0              defaults            
+    cdat_plus      4.6.0     py36_1000           cdat-forge          
+libgfortran :
+    base           3.0.1     h93005f0_2          defaults            
+    cdat_plus      3.0.1     h93005f0_2          cdat-forge          
+pandoc :
+    base           2.2.3.2   0                   defaults            
+    cdat_plus      2.6       1                   cdat-forge          
+bokeh :
+    base           1.0.4     py37_0              defaults            
+    cdat_plus      1.0.4     py36_1000           cdat-forge          
+testpath :
+    base           0.4.2     py37_0              defaults            
+    cdat_plus      0.4.2     py36_1000           cdat-forge          
+zeromq :
+    base           4.3.1     h0a44026_3          defaults            
+    cdat_plus      4.2.5     h0a44026_1006       cdat-forge          
+certifi :
+    base           2019.3.9  py37_0              defaults            
+    cdat_plus      2019.3.9  py36_0              defaults            
+numpy :
+    base           1.16.2    py37hacdab7b_0      defaults            
+    cdat_plus      1.16.2    py36_blas_openblash486cb9f_0[blas_openblas]     
+pyzmq :
+    base           18.0.0    py37h0a44026_0      defaults            
+    cdat_plus      18.0.1    py36h4cc6ddd_0      cdat-forge          
+backcall :
+    base           0.1.0     py37_0              defaults            
+    cdat_plus      0.1.0     py_0                cdat-forge          
+appnope :
+    base           0.1.0     py37_0              defaults            
+    cdat_plus      0.1.0     py36_1000           cdat-forge          
+imagesize :
+    base           1.1.0     py37_0              defaults            
+    cdat_plus      1.1.0     py_0                cdat-forge          
+ncurses :
+    base           6.1       h0a44026_1          defaults            
+    cdat_plus      6.1       hfc679d8_1          cdat-forge          
+jupyter_core :
+    base           4.4.0     py37_0              defaults            
+    cdat_plus      4.4.0     py_0                conda-forge         
+pylint :
+    base           2.3.1     py37_0              defaults            
+    cdat_plus      2.3.0     py36_0              cdat-forge          
+zict :
+    base           0.1.4     py37_0              defaults            
+    cdat_plus      0.1.3     py_0                cdat-forge          
+pytz :
+    base           2018.9    py37_0              defaults            
+    cdat_plus      2018.9    py_0                cdat-forge          
+python-dateutil :
+    base           2.8.0     py37_0              defaults            
+    cdat_plus      2.8.0     py_0                cdat-forge          
+sphinx :
+    base           1.8.5     py37_0              defaults            
+    cdat_plus      1.8.4     py36_0              cdat-forge          
+pysocks :
+    base           1.6.8     py37_0              defaults            
+    cdat_plus      1.6.8     py36_1002           cdat-forge          
+wurlitzer :
+    base           1.0.2     py37_0              defaults            
+    cdat_plus      1.0.2     py36_1000           cdat-forge          
+prompt_toolkit :
+    base           2.0.9     py37_0              defaults            
+    cdat_plus      2.0.9     py_0                cdat-forge          
+sphinxcontrib-websupport :
+    base           1.1.0     py37_1              defaults            
+    cdat_plus      1.1.0     py_1                cdat-forge          
+zlib :
+    base           1.2.11    h1de35cc_3          defaults            
+    cdat_plus      1.2.11    h470a237_3          cdat-forge          
+rope :
+    base           0.12.0    py37_0              defaults            
+    cdat_plus      0.10.7    py_1                cdat-forge          
+pyrsistent :
+    base           0.14.11   py37h1de35cc_0      defaults            
+    cdat_plus      0.14.11   py36h1de35cc_0      cdat-forge          
+future :
+    base           0.17.1    py37_0              defaults            
+    cdat_plus      0.17.1    py36_1000           cdat-forge          
+dask-core :
+    base           1.1.4     py37_1              defaults            
+    cdat_plus      1.1.3     py_0                cdat-forge          
+setuptools :
+    base           40.8.0    py37_0              defaults            
+    cdat_plus      40.8.0    py36_0              cdat-forge          
+spyder :
+    base           3.3.3     py37_0              defaults            
+    cdat_plus      3.3.3     py36_0              cdat-forge          
+krb5 :
+    base           1.16.1    hddcf347_7          defaults            
+    cdat_plus      1.16.3    hcfa6398_1001       cdat-forge          
+sqlite :
+    base           3.27.2    ha441bb4_0          defaults            
+    cdat_plus      3.26.0    h1765d9f_1001       conda-forge         
+ipykernel :
+    base           5.1.0     py37h39e3cac_0      defaults            
+    cdat_plus      5.1.0     py36h24bf2e0_1002   cdat-forge          
+blas :
+    base           1.0       mkl                 defaults            
+    cdat_plus      1.1       openblas            cdat-forge          
+expat :
+    base           2.2.6     h0a44026_0          defaults            
+    cdat_plus      2.2.5     h0a44026_1002       cdat-forge          
+openssl :
+    base           1.1.1b    h1de35cc_1          defaults            
+    cdat_plus      1.1.1c    h1de35cc_1          defaults            
+dask :
+    base           1.1.4     py37_1              defaults            
+    cdat_plus      1.1.3     py_0                cdat-forge          
+pip :
+    base           19.0.3    py37_0              defaults            
+    cdat_plus      19.1      py36_0              conda-forge         
+curl :
+    base           7.64.0    ha441bb4_2          defaults            
+    cdat_plus      7.64.0    heae2a1f_2          cdat-forge          
+parso :
+    base           0.3.4     py37_0              defaults            
+    cdat_plus      0.3.4     py_0                cdat-forge          
+bzip2 :
+    base           1.0.6     h1de35cc_5          defaults            
+    cdat_plus      1.0.6     1                   cdat-forge          
+sip :
+    base           4.19.8    py37h0a44026_0      defaults            
+    cdat_plus      4.18.1    py36h0a44026_1000   cdat-forge          
+partd :
+    base           0.3.10    py37_1              defaults            
+    cdat_plus      0.3.9     py_0                cdat-forge          
+cryptography :
+    base           2.6.1     py37ha12b0ac_0      defaults            
+    cdat_plus      2.5       py36hc2b1221_1      cdat-forge          
+libcurl :
+    base           7.64.0    h051b688_2          defaults            
+    cdat_plus      7.64.0    he376013_2          cdat-forge          
+babel :
+    base           2.6.0     py37_0              defaults            
+    cdat_plus      2.6.0     py_1                cdat-forge          
+libcxx :
+    base           4.0.1     hcfea43d_1          defaults            
+    cdat_plus      7.0.0     h04f5b5a_1002       cdat-forge          
+six :
+    base           1.12.0    py37_0              defaults            
+    cdat_plus      1.12.0    py36_1000           cdat-forge          
+pyqt :
+    base           5.9.2     py37h655552a_2      defaults            
+    cdat_plus      5.6.0     py36hc26a216_1008   cdat-forge          
+ipywidgets :
+    base           7.4.2     py37_0              defaults            
+    cdat_plus      7.4.2     py_0                cdat-forge          
+widgetsnbextension :
+    base           3.4.2     py37_0              defaults            
+    cdat_plus      3.4.2     py36_1000           cdat-forge          
+nbconvert :
+    base           5.4.1     py37_3              defaults            
+    cdat_plus      5.5.0     py_0                defaults            
+jupyter_console :
+    base           6.0.0     py37_0              defaults            
+    cdat_plus      6.0.0     py_0                cdat-forge          
+webencodings :
+    base           0.5.1     py37_1              defaults            
+    cdat_plus      0.5.1     py_1                cdat-forge          
+pandas :
+    base           0.24.2    py37h0a44026_0      defaults            
+    cdat_plus      0.24.1    py36h0a44026_0      cdat-forge          
+wheel :
+    base           0.33.1    py37_0              defaults            
+    cdat_plus      0.33.4    py36_0              conda-forge         
+terminado :
+    base           0.8.1     py37_1              defaults            
+    cdat_plus      0.8.1     py36_1001           cdat-forge          
+tornado :
+    base           6.0.2     py37h1de35cc_0      defaults            
+    cdat_plus      6.0.1     py36h1de35cc_0      cdat-forge          
+urllib3 :
+    base           1.24.1    py37_0              defaults            
+    cdat_plus      1.24.1    py36_1000           cdat-forge          
+locket :
+    base           0.2.0     py37_1              defaults            
+    cdat_plus      0.2.0     py_2                cdat-forge          
+notebook :
+    base           5.7.8     py37_0              defaults            
+    cdat_plus      5.7.2     py36_1000           cdat-forge          
+libffi :
+    base           3.2.1     h475c297_4          defaults            
+    cdat_plus      3.2.1     hfc679d8_5          cdat-forge          
+readline :
+    base           7.0       h1de35cc_5          defaults            
+    cdat_plus      7.0       haf1bffa_1          cdat-forge          
+astroid :
+    base           2.2.5     py37_0              defaults            
+    cdat_plus      2.2.3     py36_0              cdat-forge          
+jupyter :
+    base           1.0.0     py37_7              defaults            
+    cdat_plus      1.0.0     py36_7              defaults            
+jupyter_client :
+    base           5.2.4     py37_0              defaults            
+    cdat_plus      5.2.4     py_3                cdat-forge          
+tblib :
+    base           1.3.2     py37_0              defaults            
+    cdat_plus      1.3.2     py_1                cdat-forge          
+pyflakes :
+    base           2.1.1     py37_0              defaults            
+    cdat_plus      2.1.1     py_0                cdat-forge          
+keyring :
+    base           18.0.0    py37_0              defaults            
+    cdat_plus      18.0.0    py36_0              cdat-forge          
+mccabe :
+    base           0.6.1     py37_1              defaults            
+    cdat_plus      0.6.1     py_1                cdat-forge          
+spyder-kernels :
+    base           0.4.2     py37_0              defaults            
+    cdat_plus      0.4.2     py36_0              cdat-forge          
+idna :
+    base           2.8       py37_0              defaults            
+    cdat_plus      2.8       py36_1000           cdat-forge          
